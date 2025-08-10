@@ -1,0 +1,12 @@
+torch
+diffusers>=0.20.0
+transformers
+accelerate
+safetensors
+huggingface-hub
+huggingface-hub>=0.15.0
+Pillow
+fastapi
+uvicorn[standard]
+python-multipart
+requests
